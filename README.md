@@ -12,7 +12,7 @@
 
 配置 ssd：https://blog.csdn.net/weixin_47606814/article/details/127841948
 
-安装 aarch64 系统对应的 anaconda：https://blog.csdn.net/yuehenmiss/article/details/125412725（本身是个替代品，见 https://blog.csdn.net/qq_37700257/article/details/123640826）
+安装 aarch64 系统对应的 anaconda：https://blog.csdn.net/yuehenmiss/article/details/125412725 （本身是个替代品，见 https://blog.csdn.net/qq_37700257/article/details/123640826 ）
 
 opencv：https://sjtu-robomaster-team.github.io/campus-competition-1-opencv-environment/
 
