@@ -32,7 +32,8 @@ pyrealsense2(没有 arm 版本的库，必须 build from source)：
 - https://github.com/IntelRealSense/librealsense/issues/1657#issuecomment-386550240
 - https://blog.csdn.net/qq_37509948/article/details/118195939
 
-具体步骤：
+    具体步骤：
 
-- - 按照上面第一个链接提供的方式下载，不过如果系统存在其他版本 python（非3.6），则需要按照第二个链接里的步骤进行
-  - 如果用的是 anaconda，需要按照第三个链接的方式添加一个 soft-link 到 conda 对应环境的 site-packages 里面。
+    - 按照上面第一个链接提供的方式下载，不过如果系统存在其他版本 python（非3.6），则需要按照第二个链接里的步骤进行
+
+    - 如果用的是 anaconda，需要按照第三个链接的方式添加一个 soft-link 到 conda 对应环境的 site-packages 里面。
