@@ -25,7 +25,7 @@ pytorch：
 
 librealsense2：https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md
 
-pyrealsense2(没有 arm 版本的库，必须 build from source)：
+pyrealsense2(在 python 3.6 版本下，没有 arm 版本的库，必须 build from source)：
 
 - https://www.lieuzhenghong.com/how_to_install_librealsense_on_the_jetson_nx/
 - https://github.com/IntelRealSense/librealsense/issues/6964#issuecomment-707501049
